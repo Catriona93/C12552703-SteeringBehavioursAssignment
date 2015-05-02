@@ -1,0 +1,14 @@
+The shark is set up to seek the leader fish. 
+Seek and Persue are enabled on the script in the inspector.
+
+The leader fish is set up to flee from the shark. Flee and Path follow are enabled in the script in the inspector.
+
+The rest of the fish are also set up to flee from the shark.Flee and Path follow are enabled in the script in the inspector.
+
+
+If you disable flee from the leader fish and only have path enabled it will not flee from the shark. The shark can then eat the fish.
+I also enable arrive on the shark so he can eat the fish.
+
+The fish called Fish1 is set up to flee from the shark. Flee and Path follow are enabled in the script in the inspector.
+If you disable path follow the fish will look for the food that is at the bottom on the sand.
+
